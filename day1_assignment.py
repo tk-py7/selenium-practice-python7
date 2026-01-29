@@ -19,4 +19,5 @@ time.sleep(2)
 print('and now title-> ',chrome_driver.title)
 
 chrome_driver.close()
+print('hi')
 # assignment 1
